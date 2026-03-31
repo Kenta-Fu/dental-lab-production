@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "dental-lab-production",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "1608b4f8-7590-4cc0-8d3a-caa5d3649968",
+			"database_name": "dental-lab-production"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
